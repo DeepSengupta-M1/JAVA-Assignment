@@ -9,10 +9,7 @@ public class Assig2Q9 {
 
         if (num<100)
             System.out.println("Number is less than 100");
-        else 
-        {
-            if (num>100)
+        else
             System.out.println("Number is greater than 100");
-        }
     }
 }
