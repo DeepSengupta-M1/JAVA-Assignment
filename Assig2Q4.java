@@ -7,7 +7,7 @@ public class Assig2Q4 {
 
         System.out.print("Enter a Number: ");
         num = sc.nextInt();
-        while(num!=0)
+        while (num!=0)
         {
             rem = num%10;
             rev = (rev*10) + rem;
