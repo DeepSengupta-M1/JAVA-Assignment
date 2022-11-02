@@ -7,13 +7,9 @@ public class Assig2Q9 {
         System.out.print("Enter the number: ");
         num = sc.nextInt();
 
-        if(num<100)
-        {
+        if (num<100)
             System.out.println("Number is less than 100");
-        }
         else
-        {
             System.out.println("Number is greater than 100");
-        }
     }
 }
