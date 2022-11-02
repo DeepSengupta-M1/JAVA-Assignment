@@ -9,13 +9,13 @@ public class Assig2Q2 {
         num = sc.nextInt();
 
         temp = num;
-        while(temp!=0)
+        while (temp!=0)
         {
             rem = temp%10;
             rev = (rev*10) + rem;
             temp = temp/10;
         }
-    if(num==rev)
+    if (num==rev)
         System.out.println("\n It is a Palindrome Number.");
     else
         System.out.println("\n It is not a Palindrome Number.");
