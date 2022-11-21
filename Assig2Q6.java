@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Assig2Q5 {
+public class Assig2Q6 {
     public static void main(String[] args){
         int a, b, temp;
         Scanner sc = new Scanner(System.in);
