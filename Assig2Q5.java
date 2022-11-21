@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Assig2Q5 {
     public static void main(String[] args){
         System.out.println("Qty\tDescription\t\tPrice per price\tAmount");
         System.out.println("------------------------------------------------------------");
