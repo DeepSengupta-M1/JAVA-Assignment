@@ -1,5 +1,4 @@
 public class Assig1Q7 {
-    
     public static void main(String[] args){
         int n = 6;
         double sum = 0;
