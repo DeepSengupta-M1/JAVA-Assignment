@@ -18,6 +18,6 @@ public class Assig3Q11 {
 
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
-        System.out.println("Weight: " + regdno);
+        System.out.println("Regd. No.: " + regdno);
     }
 }
